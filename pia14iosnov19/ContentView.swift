@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Tjena")
             Text("Hey Hey Hey")
-            Text("Banan")
+            Text("Kiwi")
             Text("Tjena")
             Text("Rad Tre")
         }
